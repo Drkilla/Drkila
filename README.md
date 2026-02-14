@@ -1,5 +1,3 @@
-# Hi, I'm Aleksandar 👋
-
 Senior Backend Developer passionate about clean architecture and scalable systems.
 
 ## 🔧 Tech Stack
